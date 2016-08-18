@@ -1,3 +1,8 @@
+Andrew Cordivari
+https://github.com/andrewdc92/functions-training
+
+    So...quite the fun assignment :) It went in waves. The logic to number three stumped me for quite a bit even though I knew what to do, it was because it just looked weird to me that the first time the for loop ran the result came back as 1 to initiate the exponents (ie, 4^1 )...I can't really explain where the disconnect was but it definitely stumped me for a bit. I'd like to revisit it! Otherwise I pretty much flew thru the rest until 8 & 9. Another issue was that I had made a (false) binary distinction after the lesson today, in that I assumed declaring variables prior to loops were only used for 'while' loops, so it was really just getting the synax squared away and knowing when to declare an additonal variable that challenged me.
+
 # Training - Javascript Functions
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer. Write the functions assigned below in the file `functions.js`. Use snippets to run and observe the results of your code.
